@@ -12,7 +12,7 @@ This is a simple ASP.NET Core Web API that implements JSON Web Token (JWT) authe
 - Entity Framework Core
 
 ## API Endpoints
-POST /WeatherForecast/login
-GET /WeatherForecast/GetSecret
-GET /WeatherForecast/AuthGet
-GET /WeatherForecast/OpenGet
+- POST /WeatherForecast/login
+- GET /WeatherForecast/GetSecret
+- GET /WeatherForecast/AuthGet
+- GET /WeatherForecast/OpenGet
